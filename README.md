@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @erayberkanoncel
+- 👋 Hi, I’m Eray
 - 👀 I’m interested in CSS,Javascript,React and Solidity
 - 🌱 I'm currently working with something related to React and Solidity.
 - 📫 How to reach me erayberkanoncel@gmail.com
